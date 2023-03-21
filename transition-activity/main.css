@@ -3,12 +3,14 @@
 body  {
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
+  
 }
 
 .caption {
   width: 80%;
   margin: auto;
   overflow: hidden;
+  
 }
 
 img {
@@ -20,8 +22,20 @@ button {
   margin: .2em;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 1.5em;
+  
+  
+  
+
 }
 
 button:hover {
   background-color: cornflowerblue;
+  color: ghostwhite;
+  transition-duration: 2s;
+  
+  
 }
+
+
+ 
+
